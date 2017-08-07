@@ -16,7 +16,7 @@
     "npm:publish": "npm version patch && npm publish"
   },
   "author": "vikingmute <vikingmute@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "big-integer": "^1.6.22",
     "chalk": "^1.1.3",
